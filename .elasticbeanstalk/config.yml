@@ -1,0 +1,5 @@
+branch-defaults:
+  main:
+    environment: ReactDockerAWS-env
+global:
+  profile: null
